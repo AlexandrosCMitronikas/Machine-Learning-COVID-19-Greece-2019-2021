@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 19 15:13:23 2021
-
-@author: gkl_a
-"""
-
 import pandas as pd
 import numpy as np
 import sklearn
