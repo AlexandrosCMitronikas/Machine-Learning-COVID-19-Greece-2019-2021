@@ -2,7 +2,7 @@
 """
 Created on Fri May 14 00:16:03 2021
 
-@author: alexc
+@author: AlexandrosCMitronikas
 """
 
 from sklearn.datasets import make_regression
